@@ -1,0 +1,1 @@
+Source_Urls,Name,image_urls=scrapy.Field()Practice_Area,Badges,Practice_Area_Detail,Fees,Jurisdiction_Admitted_To_Practice,Languages,Professional_Experience,Education,Professional_Association,Website_Blog_Url,Telephone,image_paths,
